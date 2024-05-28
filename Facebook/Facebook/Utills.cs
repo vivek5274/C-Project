@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.DevTools.V123.DOM;
 
 namespace Facebook
 {
@@ -16,7 +17,8 @@ namespace Facebook
 
         public static string getValueFromXML(string attribute)
         {
-            string xmlFilePath = "C:\\Users\\Vivek.gupta\\source\\repos\\Facebook\\Facebook\\XMLFile1.xml";
+            string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
+            string xmlFilePath = Path.Combine(baseDirectory, @"..\..\..\..\Facebook\XMLFile1.xml");
             XDocument doc = XDocument.Load(xmlFilePath);
             var user = doc.Descendants("User").FirstOrDefault();
             return user.Element(attribute)?.Value; ;
@@ -24,20 +26,36 @@ namespace Facebook
         public void launchURL(string url)
         {
             driver.Navigate().GoToUrl(url);
+            Console.WriteLine("URL launched");
 
         }
 
         public void inputUserNameAndPassword(string userName, string password) {
-            driver.FindElement(By.Id("email")).SendKeys(userName);
+            driver.FindElement(By.Id("username")).SendKeys(userName);
             Console.WriteLine("User entered user name");
-            driver.FindElement(By.Id("pass")).SendKeys(password);
+            driver.FindElement(By.Id("password")).SendKeys(password);
             Console.WriteLine("User entered password");
         }
 
-        public void clickOnLoginButton()
+        public void clickOnSubmitButton()
         {
-            driver.FindElement(By.Id("loginbutton")).Click();
-            Console.WriteLine("User clicked on login button");
+            driver.FindElement(By.Id("submit")).Click();
+            Console.WriteLine("User clicked on Submit button");
+        }
+
+        public bool verifyLogOutButtonIsVisible()
+        {
+            Boolean status;
+            status = driver.FindElement(By.CssSelector("[href*=\"practice-\"]")).Displayed;
+            return status;
+        }
+        public String verifyTextOnPage()
+        {
+          return  driver.FindElement(By.CssSelector("[class=\"post-title\"]")).Text;
+        }
+        public String getCurrentPageUrl()
+        {
+            return driver.Url;
         }
 
         public void closeWindow()

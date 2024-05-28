@@ -19,3 +19,6 @@ C:\Users\Vivek.gupta\source\repos\Facebook\Facebook\obj\Debug\net8.0\refint\Face
 C:\Users\Vivek.gupta\source\repos\Facebook\Facebook\obj\Debug\net8.0\Facebook.pdb
 C:\Users\Vivek.gupta\source\repos\Facebook\Facebook\obj\Debug\net8.0\Facebook.genruntimeconfig.cache
 C:\Users\Vivek.gupta\source\repos\Facebook\Facebook\obj\Debug\net8.0\ref\Facebook.dll
+C:\Users\Vivek.gupta\source\repos\Facebook\Facebook\obj\Debug\net8.0\Facebook.sourcelink.json
+C:\Users\Vivek.gupta\source\repos\Facebook\Facebook\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Vivek.gupta\source\repos\Facebook\Facebook\bin\Debug\net8.0\nunit.framework.legacy.dll
