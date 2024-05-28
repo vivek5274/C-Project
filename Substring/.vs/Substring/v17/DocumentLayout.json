@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vivek.gupta\\source\\repos\\Substring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83861FB1-1A11-447B-B414-4C660A82C25B}|Substring\\Substring.csproj|c:\\users\\vivek.gupta\\source\\repos\\substring\\substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83861FB1-1A11-447B-B414-4C660A82C25B}|Substring\\Substring.csproj|solutionrelative:substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vivek.gupta\\source\\repos\\Substring\\Substring\\Program.cs",
+              "RelativeDocumentMoniker": "Substring\\Program.cs",
+              "ToolTip": "C:\\Users\\Vivek.gupta\\source\\repos\\Substring\\Substring\\Program.cs",
+              "RelativeToolTip": "Substring\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:11:53.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClassVsInterface.exe
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClassVsInterface.deps.json
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClassVsInterface.runtimeconfig.json
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClassVsInterface.dll
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClassVsInterface.pdb
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClassVsInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClassVsInterface.AssemblyInfoInputs.cache
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClassVsInterface.AssemblyInfo.cs
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClassVsInterface.csproj.CoreCompileInputs.cache
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClassVsInterface.dll
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\refint\AbstractClassVsInterface.dll
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClassVsInterface.pdb
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClassVsInterface.genruntimeconfig.cache
+C:\Users\Vivek.gupta\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\ref\AbstractClassVsInterface.dll

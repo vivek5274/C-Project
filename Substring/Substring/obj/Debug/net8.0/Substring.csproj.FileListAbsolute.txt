@@ -1,0 +1,14 @@
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\bin\Debug\net8.0\Substring.exe
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\bin\Debug\net8.0\Substring.deps.json
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\bin\Debug\net8.0\Substring.runtimeconfig.json
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\bin\Debug\net8.0\Substring.dll
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\bin\Debug\net8.0\Substring.pdb
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\Substring.AssemblyInfoInputs.cache
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\Substring.AssemblyInfo.cs
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\Substring.dll
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\refint\Substring.dll
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\Substring.pdb
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\Substring.genruntimeconfig.cache
+C:\Users\Vivek.gupta\source\repos\Substring\Substring\obj\Debug\net8.0\ref\Substring.dll
